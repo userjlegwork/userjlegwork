@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a web developer and a programming enthusiast overall.
+
+- 👯 I’m looking to collaborate on opensource projects.
+- 💬 Ask me about javascript, python, react and django.
+- 📫 How to reach me: userjlegwork@gmail.com
