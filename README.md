@@ -26,4 +26,4 @@ I'm a web developer and a programming enthusiast overall.
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></code>
-<code><img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="django" width="45" height="45"/></code> 
+<code><img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django" width="45" height="45"/></code> 
