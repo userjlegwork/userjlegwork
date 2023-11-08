@@ -20,9 +20,7 @@ I'm a web developer and a programming enthusiast overall.
 - 👯 I’m looking to collaborate on opensource projects.
 - 💬 Ask me about javascript, python, react and django.
 - 📫 How to reach me: userjlegwork@gmail.com
-
-Some of my work:
-- [Nany's Shop](https://nanyshop.onrender.com/)
+  
 
 ### Languages and Tools
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
